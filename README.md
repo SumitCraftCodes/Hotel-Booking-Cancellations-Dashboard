@@ -6,7 +6,7 @@ It provides valuable insights into booking behavior across hotel types, guest ca
 ---
 
 ## 📊 **Dashboard Overview**
-![Hotel Booking Dashboard]
+![Hotel Booking Dashboard]https://github.com/SumitCraftCodes/Hotel-Booking-Cancellations-Dashboard/blob/main/hotel_project.png
 ### Key Insights:
 - **Total Bookings:** 119,390  
 - **Total Cancellations:** 44,224  
@@ -57,5 +57,5 @@ It provides valuable insights into booking behavior across hotel types, guest ca
 ---
 
 ## 🌐 **Connect With Me**
-🔗 
+🔗 https://www.linkedin.com/in/sumit-parit-258452269/
 📧 Email: sumitkore9970@gmail.com
